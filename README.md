@@ -1,1 +1,1 @@
-# Sentiment_analysis_AWScomprehend
+# Sentiment analysis with AWS Comprehend
